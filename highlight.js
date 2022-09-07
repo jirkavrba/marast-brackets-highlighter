@@ -40,7 +40,7 @@ const hook = () => {
         const html = document.body.innerHTML;
 
         // The HTML contains mathjax that will be rendered or that's currently rendering
-        if (html.contains("$") || html.contains("\\[")) {
+        if (html.indexOf("$") !== -1 || html.indexOf("\\[") !== -1) {
             console.log("The document contains mathjax expressions, but they have not been rendered yet...");
             window.setTimeout(hook, 1000);
         }
