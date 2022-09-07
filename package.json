@@ -1,0 +1,10 @@
+{
+  "name": "marast-brackets-highlighter",
+  "version": "1.0.0",
+  "description": "A browser extension for highlighting bracket pairs ",
+  "main": "index.js",
+  "repository": "https://github.com/jirkavrba/marast-brackets-highlighter",
+  "author": "Jiří Vrba <jiri@vrba.dev>",
+  "license": "MIT",
+  "private": true
+}
