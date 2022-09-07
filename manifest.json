@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Marast Brackets Highlighter",
+    "version": "1.0.0",
+    "description": "A browser extension for highlighting bracket pairs on https://marast.fit.cvut.cz",
+    "icons": {
+        "64": "icons/64.png",
+        "128": "icons/128.png",
+        "256": "icons/256.png"
+    }
+}
