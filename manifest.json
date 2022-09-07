@@ -11,7 +11,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://marast.fit.cvut.cz/*"
+                "https://marast.fit.cvut.cz/*",
+                "file:///**"
             ],
             "js": [
                 "highlight.js"
