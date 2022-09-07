@@ -7,5 +7,16 @@
         "64": "icons/64.png",
         "128": "icons/128.png",
         "256": "icons/256.png"
-    }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://marast.fit.cvut.cz/*"
+            ],
+            "js": [
+                "highlight.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
 }
