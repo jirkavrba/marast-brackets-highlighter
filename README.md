@@ -1,4 +1,5 @@
-![Icon](https://user-images.githubusercontent.com/14146321/188927822-51e28c56-cf6c-4278-bb0e-0c592ace6eaf.png)
+
+![Icon](https://user-images.githubusercontent.com/14146321/188972234-1199b113-fb7b-4749-913d-cc749581294b.png)
 
 # Marast Brackets Highlighter
 
